@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hshraccoon
 - 👀 I’m interested in C/C++/Python Programming 
-- 🌱 I’m currently learning C/C++ Programming & Aerospace Engineering
+- 🌱 I’m currently learning C/C++ Programming & Aerospace Engineering & Intellectual Property
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
